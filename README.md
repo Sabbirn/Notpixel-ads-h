@@ -38,7 +38,7 @@ pkg install git
 pkg install nano
 ```
 ```
-git clone https://github.com/Not-D4rkCipherX/Notpixel-ads.git
+git clone https://github.com/Sabbirn/Notpixel-ads-h.git
 ```
 ```
 cd Notpixel-ads
